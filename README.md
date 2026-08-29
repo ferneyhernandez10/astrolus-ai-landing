@@ -56,4 +56,16 @@ astrolus-ai-landing/
 │   ├── App.jsx              # Main React application entry component
 │   └── main.jsx             # DOM Rendering root
 ├── package.json
-└── README.md
+└── README.md 
+```
+
+---
+
+## Credits & License
+
+### Acknowledgments
+* **Original Design:** Based on the open-source [Astrolus](https://github.com/) template design.
+* **Implementation:** Rebuilt and engineered from scratch in React.js and Tailwind CSS under the **Atomic Design** pattern for portfolio and technical demonstration purposes.
+
+### License
+This project is open-source and available under the [MIT License](LICENSE).
