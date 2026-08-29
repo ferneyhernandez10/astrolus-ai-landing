@@ -57,10 +57,3 @@ astrolus-ai-landing/
 │   └── main.jsx             # DOM Rendering root
 ├── package.json
 └── README.md
-
----
-
-## Acknowledgments & License / Créditos
-
-* **Diseño e Interfaz:** Inspirados en la plantilla Open Source *Astrolus*. Reconstruido e implementado desde cero en **React.js** y **Tailwind CSS** bajo la metodología **Atomic Design** para demostración de habilidades frontend.
-* **Licencia:** Distribuido bajo la licencia [MIT License](LICENSE).
