@@ -3,7 +3,10 @@
 > **Modern, responsive, and production-ready landing page tailored for AI startups, SaaS platforms, and digital products.**  
 > Built with **React.js**, **Tailwind CSS**, and architected under **Atomic Design principles** for high modularity, scalability, and seamless dark-mode support.
 
-[![Live Demo](https://astrolus-ai-landing.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://astrolus-ai-landing.vercel.app/)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -34,10 +37,11 @@ Designed with a mobile-first philosophy, this project leverages **Tailwind CSS**
 
 ---
 
-## 🏗️ Architecture & Folder Structure
+## Architecture & Folder Structure
 
 This project adopts the **Atomic Design pattern**, organizing UI elements into reusable building blocks while isolating static data models from presentation components:
 
+```text
 astrolus-ai-landing/
 ├── public/                  # Static public assets
 ├── src/
